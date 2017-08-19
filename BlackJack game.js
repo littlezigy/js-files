@@ -1,0 +1,1 @@
+cardNumber = Math.random() * 52; 
